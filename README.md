@@ -9,3 +9,11 @@
  2. 일요일마다 자신의 읽은책에 대해 스터디원에게 정리하여 발표한다.
  3. 모든 commit은 항상 관련된 issue와 연결한다
    - Sample commit: #1
+
+## 📚 Document Structure
+
+```
+├─ OOO (참여자 이름)
+│  ├─n월 - 읽을 책 이름
+│     ├─ 1장.md
+```
