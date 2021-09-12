@@ -19,9 +19,9 @@ OSI : Open Systems Interconnection
 
 - 과거에는 통신용 규약이 표준화 되어있지 않아서, 각 벤더에서 별도로 개발했기 때문에 호환되지 않은 시스템이나 애플리케이션이 많아 통신이 불가했다. 이를 하나의 규약으로 통합하려는 일환으로 OSI 7계층이 되었다
 
-![Untitled](./img/chapater1/Untitled1.png)
+![Untitled](./img/chapter1/Untitled1.png)
 
-![Untitled](./img/chapater1/Untitled2.png)
+![Untitled](./img/chapter1/Untitled2.png)
 
 ---
 
@@ -47,7 +47,7 @@ OSI : Open Systems Interconnection
 
         한명과 통신하는 것이 아니기 때문에 받는 사람이 데이터를 받을 수 있는지 확인하고 보내는 작업
 
-    ![Untitled](./img/chapater1/Untitled3.png)
+    ![Untitled](./img/chapter1/Untitled3.png)
     
     - 네트워크 인터페이스 카드 동작 방식
         1. 전기신호를 데이터형태로 만든다.
@@ -59,18 +59,18 @@ OSI : Open Systems Interconnection
 
         - 주요 장비로는 네트워크 인터페이스 카드와 스위지가 있다.
 
-        ![Untitled](./img/chapater1/Untitled4.png)
+        ![Untitled](./img/chapter1/Untitled4.png)
 
-![Untitled](./img/chapater1/Untitled5.png)
+![Untitled](./img/chapter1/Untitled5.png)
 
 - **3계층 - 네트워크 계층(Network)**
     - 논리적인 주소가 정의된다.(IP 주소 같은)
 
-        ![Untitled](./img/chapater1/Untitled6.png)
+        ![Untitled](./img/chapter1/Untitled6.png)
 
     - 주요 장비로는 라우터다. 라우터는 IP 주소를 통해서 최적의 경로를 찾아주고 해당 경로로 패킷을 전송해주는 역할을 한다.
 
-    ![Untitled](./img/chapater1/Untitled7.png)
+    ![Untitled](./img/chapter1/Untitled7.png)
 
 ---
 
@@ -103,7 +103,7 @@ OSI : Open Systems Interconnection
 
     ---
 
-    ![Untitled](./img/chapater1/Untitled8.png)
+    ![Untitled](./img/chapter1/Untitled8.png)
 
 ---
 
@@ -112,7 +112,7 @@ OSI : Open Systems Interconnection
 - 현대 네트워크는 대부분 TCP/IP와 이더넷으로 이루어져 있다.
 - TCP/IP는 OSI와 다르게 4계층으로 구분한다.
 
-![Untitled](./img/chapater1/Untitled9.png)
+![Untitled](./img/chapter1/Untitled9.png)
 
 ---
 
@@ -120,7 +120,7 @@ OSI : Open Systems Interconnection
 
 - 데이터 < 디캡슐레이션 ——— 인캡슐레이션 > 전기신호
 
-    ![Untitled](./img/chapater1/Untitled10.png)
+    ![Untitled](./img/chapter1/Untitled10.png)
 
     - 인캡슐레이션
 
@@ -136,4 +136,4 @@ OSI : Open Systems Interconnection
 
         각각의 계층에서 자신의 것이 맞는지 아닌지 확인하고 자신의 헤더를 잘라내어 상위 계층으로 올려준다.
 
-        ![Untitled](./img/chapater1/Untitled11.png)
+        ![Untitled](./img/chapter1/Untitled11.png)
