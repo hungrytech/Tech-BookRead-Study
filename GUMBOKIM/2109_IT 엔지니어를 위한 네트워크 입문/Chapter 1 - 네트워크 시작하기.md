@@ -11,7 +11,7 @@
 
 - 일반적으로 TCP/IP는 다른 계층에서 동작하기 때문에 프로토콜이라고 부르지 않고 프로토콜 스택이라고 부른다.
 
-![Untitled](./img/chapter1\Untitled.png)
+![Untitled](./img/chapter1/Untitled.png)
 
 ## OSI 7계층
 
